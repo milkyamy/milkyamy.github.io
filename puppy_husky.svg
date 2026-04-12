@@ -23,6 +23,16 @@
          x="320.61108"
          y="0" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath98">
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke-width:10.5199"
+         id="circle98"
+         cx="704.61108"
+         cy="384"
+         r="384" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="namedview97"
@@ -34,8 +44,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.81818182"
-     inkscape:cx="359.33333"
-     inkscape:cy="384.38889"
+     inkscape:cx="310.44444"
+     inkscape:cy="385.61111"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1912"
@@ -44,7 +54,7 @@
      inkscape:current-layer="svg97" />
   <g
      id="g97"
-     clip-path="url(#clipPath99)"
+     clip-path="url(#clipPath98)"
      transform="translate(-320.61108)">
     <path
        d="m 0,0 c 464.64,0 929.28,0 1408,0 0,253.44 0,506.88 0,768 C 943.36,768 478.72,768 0,768 0,514.56 0,261.12 0,0 Z"
