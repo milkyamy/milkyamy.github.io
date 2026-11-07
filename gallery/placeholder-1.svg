@@ -1,0 +1,10 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='900' viewBox='0 0 1200 900'>
+<defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#4b2e83'/><stop offset='1' stop-color='#9b7fc7'/></linearGradient></defs>
+<rect width='1200' height='900' fill='url(#g)'/>
+<circle cx='936' cy='198' r='99.00000000000001' fill='#fff' opacity='0.35'/>
+<path d='M0 738 L360 495.00000000000006 L624 666 L840 540 L1200 765 L1200 900 L0 900Z' fill='#fff' opacity='0.22'/>
+<g transform='translate(510 320)' fill='none' stroke='#fff' stroke-width='12.857142857142858' stroke-linejoin='round' opacity='0.9'>
+<rect x='0' y='39.6' width='180' height='125.99999999999999' rx='18'/><circle cx='90' cy='102.6' r='36'/><path d='M54 39.6 L68.4 10.799999999999999 H111.6 L125.99999999999999 39.6'/></g>
+<text x='600' y='581' text-anchor='middle' font-family='Segoe UI, Helvetica, Arial, sans-serif' font-size='57.6' font-weight='700' fill='#fff'>Lab session</text>
+<text x='600' y='644' text-anchor='middle' font-family='Segoe UI, Helvetica, Arial, sans-serif' font-size='36' fill='#fff' opacity='0.85'>Placeholder photo</text>
+</svg>

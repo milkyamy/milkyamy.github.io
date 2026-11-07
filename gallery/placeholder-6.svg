@@ -1,0 +1,10 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='800' viewBox='0 0 1200 800'>
+<defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#F59E0B'/><stop offset='1' stop-color='#fde68a'/></linearGradient></defs>
+<rect width='1200' height='800' fill='url(#g)'/>
+<circle cx='936' cy='176' r='88' fill='#fff' opacity='0.35'/>
+<path d='M0 656 L360 440.00000000000006 L624 592 L840 480 L1200 680 L1200 800 L0 800Z' fill='#fff' opacity='0.22'/>
+<g transform='translate(520 280)' fill='none' stroke='#fff' stroke-width='11.428571428571429' stroke-linejoin='round' opacity='0.9'>
+<rect x='0' y='35.2' width='160' height='112' rx='16'/><circle cx='80' cy='91.19999999999999' r='32'/><path d='M48 35.2 L60.8 9.6 H99.2 L112 35.2'/></g>
+<text x='600' y='512' text-anchor='middle' font-family='Segoe UI, Helvetica, Arial, sans-serif' font-size='51.2' font-weight='700' fill='#fff'>Outreach event</text>
+<text x='600' y='568' text-anchor='middle' font-family='Segoe UI, Helvetica, Arial, sans-serif' font-size='32' fill='#fff' opacity='0.85'>Placeholder photo</text>
+</svg>
